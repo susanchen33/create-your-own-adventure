@@ -26,3 +26,5 @@ You start becoming transcendent.
 [Learn to breathe](../yoga/breathe/breathe.md)
 
 [Building the habit](../yoga/habit/yoga-habit.md)
+
+[Track your progress](../yoga/progress/progress.md)
